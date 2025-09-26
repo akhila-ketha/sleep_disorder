@@ -119,7 +119,5 @@ st.write("""
 4. Click the 'Predict' button to see the predicted sleep disorder.
 """)
 
-# %%
-
 
 
